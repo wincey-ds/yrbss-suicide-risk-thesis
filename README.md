@@ -21,6 +21,7 @@ scripts/
     05_subgroup_error_analysis.py
     06_shap_interpretation.py
     07_robustness_checks.py
+    08_format_tables.py
 
 data/
     raw/          # not included in repository

@@ -1,8 +1,8 @@
-# Predicting Suicide-Related Risk Among Adolescents Using Machine Learning
+**Predicting Suicide-Related Risk Among Adolescents Using Machine Learning**
 
 This repository contains the code used for my Master Thesis in Data Science & Society at Tilburg University.
 
-## Project description
+Project description:
 
 This project uses the 2023 Youth Risk Behavior Survey (YRBSS) middle school state dataset to predict suicide-related risk among adolescents. The target variable indicates whether a student reported at least one suicide-related risk indicator: seriously considering suicide, making a suicide plan, or attempting suicide.
 
@@ -10,7 +10,7 @@ The analysis compares Logistic Regression, Random Forest, and XGBoost models usi
 
 The raw YRBSS data are not included in this repository. The data can be obtained from the official CDC YRBSS data portal. After downloading the raw data, the scripts can be run sequentially to reproduce the processed datasets, model results, figures, and tables.
 
-## Repository structure
+Repository structure:
 
 ```text
 scripts/
